@@ -1,0 +1,17 @@
+names:
+- Erythema chronicum migrans
+- Erythema infectiosum
+- Erythema marginatum
+- Erythema migrans
+- Erythema multiforme -EM-
+- Erythema nodosum
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: skin-ua2dl
+  url: https://universe.roboflow.com/project/skin-ua2dl/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: /content/datasets/Skin-1/train/images
+val: /content/datasets/Skin-1/valid/images
